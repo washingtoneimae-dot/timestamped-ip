@@ -6,6 +6,22 @@
 
 Public, verifiable proof that specific ideas existed at specific points in time — secured by Bitcoin and cryptographically signed.
 
+## Verify
+
+```bash
+# Import my public key
+curl -O https://raw.githubusercontent.com/washingtoneimae-dot/timestamped-ip/main/keys/washington-imae.asc
+gpg --import washington-imae.asc
+
+# Or fetch from keyserver
+gpg --keyserver keys.openpgp.org --recv-keys 7989D2E21C9D29E657422BCA2B88E8165712F528
+
+# Verify any stamped document
+gpg --verify systems/stamped/sacco-system.md.asc
+```
+
+**Key locations:** Public key is in `keys/` and on `keys.openpgp.org`. Private keys are stored locally only — never shared, never committed.
+
 ## One Command
 
 ```bash
