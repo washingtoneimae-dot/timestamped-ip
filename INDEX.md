@@ -7,3 +7,5 @@
 | 3 | 2026-06-19 | — | Sample file | `b98761be...` | [`b98761be...`](https://blockstream.info/testnet/tx/b98761beaf2b4e8fb60b3fe6ee767f2cb9347fb785f8b57e02328b00cef4ab4c) | ✓ |
 | 4 | 2026-06-20 | concepts | test-idea | 4fe82e4ec9... | [`41f431d5...`](https://blockstream.info/testnet/tx/41f431d5ab90bb7b189618772bd94d036df89eae690e00b58076b41c230270d7) | ✓ |
 | 7 | 2026-06-20 | systems | sacco-system | 8f3f6dd1af... | [`d6ddec32...`](https://blockstream.info/testnet/tx/d6ddec32da4406952d39529f2a7d2d1d423050aa605bcf49fa433b7d0bab562e) | ✓ |
+| 6 | 2026-06-20 | systems | SolDegarde Optima (README) | `9563762d91...` | ⏳ pending | GPG signed |
+| 7 | 2026-06-20 | systems | SolDegarde Optima (optimizer.ts) | `7051be148d...` | ⏳ pending | GPG signed |
