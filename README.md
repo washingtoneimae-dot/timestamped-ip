@@ -42,6 +42,22 @@ bit verify concepts/stamped/my-idea.md.asc --txid=<txid>
 
 Or anyone can check: https://blockstream.info/testnet/tx/<txid>
 
+---
+
+## Ecosystem
+
+This registry is part of the **Timestamped IP ecosystem** — a family of tools unified by the idea that proving *when* something happened is the foundation of IP, trust, and transparency.
+
+| Project | Purpose |
+|---------|---------|
+| [**Bit Protocol**](https://github.com/washingtoneimae-dot/bit) | Core protocol — decentralized proof-of-existence on Bitcoin |
+| **Timestamped IP** *(this repo)* | Public verifiable prior-art registry — GPG-signed, Bitcoin-anchored |
+| [**SACCO System**](https://github.com/washingtoneimae-dot/saccosystem2) | Member statement automation — verifiable financial history for cooperatives |
+| **SolDegarde** *(private)* | Solar panel soiling tracking — timestamped sensor data → optimized cleaning cycles |
+| **5G SSB Observer** *(private)* | Tower structural health monitoring — timestamped phase logs → predictive maintenance |
+
+Every project in the ecosystem shares one pattern: **collect data → timestamp immutably → extract value from the proof.**
+
 ## Categories
 
 | Category | For |
